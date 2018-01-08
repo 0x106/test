@@ -1,0 +1,11 @@
+framework module frameworktest {
+  umbrella header "frameworktest.h"
+
+  export *
+  module * { export * }
+}
+
+module frameworktest.Swift {
+    header "frameworktest-Swift.h"
+    requires objc
+}

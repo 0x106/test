@@ -8,12 +8,14 @@
 
 /* Begin PBXBuildFile section */
 		DA8EE7FA20032C5E002926A6 /* frameworktest.h in Headers */ = {isa = PBXBuildFile; fileRef = DA8EE7F820032C5E002926A6 /* frameworktest.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		DA8EE80120032C7C002926A6 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA8EE80020032C7C002926A6 /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		DA8EE7F520032C5E002926A6 /* frameworktest.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = frameworktest.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		DA8EE7F820032C5E002926A6 /* frameworktest.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = frameworktest.h; sourceTree = "<group>"; };
 		DA8EE7F920032C5E002926A6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DA8EE80020032C7C002926A6 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -47,6 +49,7 @@
 			isa = PBXGroup;
 			children = (
 				DA8EE7F820032C5E002926A6 /* frameworktest.h */,
+				DA8EE80020032C7C002926A6 /* main.swift */,
 				DA8EE7F920032C5E002926A6 /* Info.plist */,
 			);
 			path = frameworktest;
@@ -95,6 +98,7 @@
 				TargetAttributes = {
 					DA8EE7F420032C5E002926A6 = {
 						CreatedOnToolsVersion = 9.0;
+						LastSwiftMigration = 0900;
 					};
 				};
 			};
@@ -130,6 +134,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DA8EE80120032C7C002926A6 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -252,6 +257,7 @@
 		DA8EE7FE20032C5E002926A6 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_IDENTITY = "";
 				DEFINES_MODULE = YES;
 				DEVELOPMENT_TEAM = X74VR9B6M2;
@@ -264,6 +270,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = Atlas.frameworktest;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SKIP_INSTALL = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -272,6 +279,7 @@
 		DA8EE7FF20032C5E002926A6 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_IDENTITY = "";
 				DEFINES_MODULE = YES;
 				DEVELOPMENT_TEAM = X74VR9B6M2;

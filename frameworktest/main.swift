@@ -13,8 +13,8 @@ public class Test {
     public init() {
         print("Test init.")
     }
-    
-    public func run() {
-        print("Test run.    ")
-    }
+}
+
+public func runTest() {
+    print("Test run.    ")
 }

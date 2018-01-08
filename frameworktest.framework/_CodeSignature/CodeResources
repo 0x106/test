@@ -22,7 +22,7 @@
 		</data>
 		<key>Modules/frameworktest.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		a5RoeV9tQv0wjiHFx6SMm0YxD1M=
+		sXZs1CIFlM1CTC04FW2cAJ84U+g=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -68,11 +68,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			a5RoeV9tQv0wjiHFx6SMm0YxD1M=
+			sXZs1CIFlM1CTC04FW2cAJ84U+g=
 			</data>
 			<key>hash2</key>
 			<data>
-			ptBwhlb/zQofAGX0Tv1zTHlU/OVzUwb/6uFya46N5WA=
+			IdrOeKQXxgJshDxPLYBIKzgvhBoO31ABPforXak3qf0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

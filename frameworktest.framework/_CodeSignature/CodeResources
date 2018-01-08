@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/frameworktest-Swift.h</key>
 		<data>
-		6/jObh2dabfnss3X5z9krV9lbA0=
+		ohAryEqr9RUNi1Oe0Vp3D7XnNLE=
 		</data>
 		<key>Headers/frameworktest.h</key>
 		<data>
@@ -14,15 +14,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		8GSJ5kG2e6DWG6L4kcR1aTa270w=
+		Vsn9LzG3O4sbNAlbt0wnB4Jz5x8=
 		</data>
 		<key>Modules/frameworktest.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		CAQlFr7E6Y40+7r1grb7J50Z6j8=
+		iRMO+oJPzXtM8iB0lh8GljjP0wg=
 		</data>
 		<key>Modules/frameworktest.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		sXZs1CIFlM1CTC04FW2cAJ84U+g=
+		aVD40TglVsXzYyyaSqf0j009Vmc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -35,11 +35,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			6/jObh2dabfnss3X5z9krV9lbA0=
+			ohAryEqr9RUNi1Oe0Vp3D7XnNLE=
 			</data>
 			<key>hash2</key>
 			<data>
-			YlTxNAmz6BoNJF1GjdVmcAhruERZZEA9qC7fCfDaSN8=
+			N7DXA1Qc7qd7b7ZCPJUekOviyBq8pxQWDoL1i8wKuCc=
 			</data>
 		</dict>
 		<key>Headers/frameworktest.h</key>
@@ -57,22 +57,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			CAQlFr7E6Y40+7r1grb7J50Z6j8=
+			iRMO+oJPzXtM8iB0lh8GljjP0wg=
 			</data>
 			<key>hash2</key>
 			<data>
-			EdKwjVcJATvQr0HgAB0l7uTUJ7SZBDi8zEz7C4hb7mM=
+			Wr0o/wAzEyGH/lX1HzOys3kRlXFAfxXu520UhOtERqw=
 			</data>
 		</dict>
 		<key>Modules/frameworktest.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			sXZs1CIFlM1CTC04FW2cAJ84U+g=
+			aVD40TglVsXzYyyaSqf0j009Vmc=
 			</data>
 			<key>hash2</key>
 			<data>
-			IdrOeKQXxgJshDxPLYBIKzgvhBoO31ABPforXak3qf0=
+			eSsb/mzfu5NleaipuoETsn7QyjWrv/WzrMfqzJd6gik=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

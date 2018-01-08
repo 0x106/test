@@ -15,5 +15,6 @@ public class Test {
 }
 
 public func runTest() {
-    print("Test run.    ")
+    print("Test run.")
 }
+

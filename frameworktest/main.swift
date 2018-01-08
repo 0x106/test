@@ -10,7 +10,7 @@ import Foundation
 
 
 public class Test {
-    init() {
+    public init() {
         print("Test init.")
     }
     
